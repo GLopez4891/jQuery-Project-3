@@ -1,0 +1,25 @@
+img.crown {
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+    background-color: azure;
+}
+.throne {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.blue {
+    background-color: blue;
+}
